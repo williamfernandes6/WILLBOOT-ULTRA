@@ -1,0 +1,37 @@
+body {
+  background: #0a0a0a;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  padding: 2rem;
+}
+.logo {
+  width: 120px;
+  margin-bottom: 1rem;
+}
+h1 {
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+  color: #e60000;
+}
+.btn, .link {
+  display: inline-block;
+  margin: 0.5rem;
+  padding: 0.75rem 1.5rem;
+  background: #e60000;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+}
+.link {
+  background: transparent;
+  border: 1px solid #e60000;
+}
+#sinais {
+  margin-top: 2rem;
+  font-size: 1.2rem;
+}
